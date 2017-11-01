@@ -1,2 +1,2 @@
 # HCSEA-
-Website for Harvard College Social Entrepreneurship Association 
+Bootstrap static website for Harvard College Social Entrepreneurship Association 
